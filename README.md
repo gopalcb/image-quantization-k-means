@@ -13,7 +13,6 @@
 import os
 import numpy as np
 from PIL import Image, ImageOps
-from sklearn.decomposition import PCA
 from matplotlib import pyplot as plt
 ```
 
