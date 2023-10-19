@@ -217,3 +217,9 @@ axarr[1,2].imshow(quant_image_dict[32])
 ![png](res/output_16_1.png)
     
 
+Channel wise quantization can also be performed using mini batch k means clustering algoritham.
+In case of channel wise quantization, we need to apply the similar technique for each channel and then aggregate the results at the end.
+
+Ref.
+
+https://www.mdpi.com/2073-8994/11/8/963
