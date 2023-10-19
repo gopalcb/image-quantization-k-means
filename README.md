@@ -149,31 +149,9 @@ quant_image_dict = compute_bulk_quantization(X, K_values)
     Quantizing with k=1
     Quantizing with k=2
     Quantizing with k=4
-
-
-    /Users/gopalcbala/Desktop/Jupyter_NB_Projects/venv/lib/python3.11/site-packages/sklearn/cluster/_kmeans.py:1934: FutureWarning: The default value of `n_init` will change from 3 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      super()._check_params_vs_input(X, default_n_init=3)
-    /Users/gopalcbala/Desktop/Jupyter_NB_Projects/venv/lib/python3.11/site-packages/sklearn/cluster/_kmeans.py:1934: FutureWarning: The default value of `n_init` will change from 3 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      super()._check_params_vs_input(X, default_n_init=3)
-    /Users/gopalcbala/Desktop/Jupyter_NB_Projects/venv/lib/python3.11/site-packages/sklearn/cluster/_kmeans.py:1934: FutureWarning: The default value of `n_init` will change from 3 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      super()._check_params_vs_input(X, default_n_init=3)
-
-
     Quantizing with k=8
     Quantizing with k=16
-
-
-    /Users/gopalcbala/Desktop/Jupyter_NB_Projects/venv/lib/python3.11/site-packages/sklearn/cluster/_kmeans.py:1934: FutureWarning: The default value of `n_init` will change from 3 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      super()._check_params_vs_input(X, default_n_init=3)
-    /Users/gopalcbala/Desktop/Jupyter_NB_Projects/venv/lib/python3.11/site-packages/sklearn/cluster/_kmeans.py:1934: FutureWarning: The default value of `n_init` will change from 3 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      super()._check_params_vs_input(X, default_n_init=3)
-
-
     Quantizing with k=32
-
-
-    /Users/gopalcbala/Desktop/Jupyter_NB_Projects/venv/lib/python3.11/site-packages/sklearn/cluster/_kmeans.py:1934: FutureWarning: The default value of `n_init` will change from 3 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      super()._check_params_vs_input(X, default_n_init=3)
 
 
 #### Histogram after quantization
